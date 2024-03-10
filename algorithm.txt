@@ -1,0 +1,9 @@
+1- print program header
+2- get user choice (whether to encrypt or decrypt)
+3- get the required text
+4- perform the required operation on it
+    4.1 if user choice is to encrypt
+        4.2 use encrypt function
+    4.3 else
+        4.4 use decrypt function
+5- print the output
